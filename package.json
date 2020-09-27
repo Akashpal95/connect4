@@ -1,0 +1,22 @@
+{
+  "name": "connect4",
+  "version": "1.0.0",
+  "description": "An API to replicate the famous game of connect4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashpal95/connect4.git"
+  },
+  "keywords": [
+    "connect4"
+  ],
+  "author": "AkashPal96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akashpal95/connect4/issues"
+  },
+  "homepage": "https://github.com/Akashpal95/connect4#readme"
+}
